@@ -1,2 +1,2 @@
 # FastFeet
-Sistema voltado para entregas de produtos.
+Sistema voltado para entregas de produtos de ecommerces.
